@@ -1,12 +1,12 @@
 ### Olá, Meu Nome é Luis Gustavo👋
 
-<h3>Atualmente trabalho como Desenvolvedor Back-End utilizando a técnologia Golang</h3>
+<h3>Atualmente trabalho como Desenvolvedor Back-End utilizando a técnologia Django</h3>
 
 <hr>
 
 <strong>Trabalho e Estudos 👨‍💻</strong>
 <br>
-- 💻 Atualmente trabalhando como Desenvolvedor Back-End | Golang<br>
+- 💻 Atualmente trabalhando como Desenvolvedor Back-End | Django<br>
 - 🚀 Sempre Buscando novas formas de aprender e trabalhar<br>
 - 🔭 Sempre tentando avançar para o proximo nível.
 
